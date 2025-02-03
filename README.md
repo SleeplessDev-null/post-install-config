@@ -19,11 +19,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Agent/Employee set up 
+- Configuration for roles
+- Department setup 
+- SLA setup
+- User Set up
+
+
+<h3>This will be a continuation of setting up osTicket.This will go over the basics of getting users,employees, roles,sla and overall configuration of osTicket set up in a simple and easy to follow manner.</h3>
 
 <h2>Configuration Steps</h2>
 
