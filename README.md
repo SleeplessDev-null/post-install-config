@@ -26,7 +26,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - User Set up
 
 
-<h3>This will be a continuation of setting up osTicket.This will go over the basics of getting users,employees, roles,sla and overall configuration of osTicket set up in a simple and easy to follow manner.</h3>
+<h3>This will be a continuation of setting up osTicket.Here will go over the basics of getting users,employees, roles,sla and overall configuration of osTicket set up in a simple and easy to follow manner.</h3>
 
 <h2>Configuration Steps</h2>
 
@@ -37,7 +37,7 @@ First log in with the password and username you set for yourself, back inside of
 <img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Config%20roles.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
-We will begin by setting up the roles for our agents/employees follow theses steps :
+We will begin by setting up the roles for our agents/employees. Click the admin panel button next to your name and follow theses steps :
 <br />
 <br />
 <img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Roles%201.PNG?raw=true" height="90%" width="80%"  />
