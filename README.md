@@ -38,7 +38,10 @@ First log in with the password and username you set for yourself, back inside of
 <br />
 <br />
 We will begin by setting up the roles for our agents/employees follow theses steps :
-
-
+<br />
+<br />
+<img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Roles%201.PNG?raw=true" height="90%" width="80%"  />
+<br />   
+<img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Roles%202.PNG?raw=true" height="90%" width="80%"  />
    
 </p>
