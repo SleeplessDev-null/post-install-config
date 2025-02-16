@@ -51,6 +51,9 @@ Here we will set up the first role which will be Supreme Admin follow the steps 
 <img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Roles%203.PNG?raw=true" height="90%" width="80%"  />
 <br />  
 <img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Roles%204.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+
 
    
 </p>
