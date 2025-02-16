@@ -75,7 +75,7 @@ In this setting leave the box unticked just so you don't have to use a real emai
 <img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Teams%202.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
-Now we will move on to the creation of your agents/employees. In this section you can create the agent accounts and add them to differnt departments or teams.The information can be completely random just make sure the passwords and usernames are easy to remember for the purpose of the guide. Follow these steps.:
+Now we will move on to the creation of your agents/employees. In this section you can create the agent accounts and add them to different departments or teams.The information can be completely random just make sure the passwords and usernames are easy to remember for the purpose of the guide. Follow these steps.:
 <br />
 <br />
 <img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Agents.PNG?raw=true" height="90%" width="80%"  />
