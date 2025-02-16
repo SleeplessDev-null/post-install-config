@@ -53,6 +53,28 @@ Here we will set up the first role which will be Supreme Admin follow the steps 
 <img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Roles%204.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
+Save the changes and the roles are done. Now we move on to departments. While in the admin panel follow these steps .:
+<br />
+<br />
+<img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Departments.PNG?raw=true" height="90%" width="80%"  />
+<br />   
+<img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Department%202.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+save the department and move over to the teams section and create a online banking team.
+<br />
+<br />  
+<img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Teams.PNG?raw=true" height="90%" width="80%"  />
+<br />     
+<img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Teams%201.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+In this setting leave the box unticked just so you don't have to use a real email when making your clients.
+<br />
+<br /> 
+<img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Teams%202.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />    
 
 
    
