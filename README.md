@@ -87,7 +87,9 @@ Now we will move on to the creation of your agents/employees. In this section yo
 <img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Agent%204.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
- Uncheck the the boxes, this will make it so the password you set will be their main password. :  
+Uncheck the the boxes, this will make it so the password you set will be their main password. :
+<br />
+<br />  
 <img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Agents%20%205.PNG?raw=true" height="90%" width="80%"  />   
 
 
