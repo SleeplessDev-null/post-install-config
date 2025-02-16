@@ -61,7 +61,7 @@ Save the changes and the roles are done. Now we move on to departments. While in
 <img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Department%202.PNG?raw=true" height="90%" width="80%"  />
 <br />
 <br />
-save the department and move over to the teams section and create a online banking team.
+Save the department and move over to the teams section and create a online banking team.
 <br />
 <br />  
 <img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Teams.PNG?raw=true" height="90%" width="80%"  />
@@ -74,7 +74,21 @@ In this setting leave the box unticked just so you don't have to use a real emai
 <br /> 
 <img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Teams%202.PNG?raw=true" height="90%" width="80%"  />
 <br />
-<br />    
+<br />
+Now we will move on to the creation of your agents/employees. In this section you can create the agent accounts and add them to differnt departments or teams.The information can be completely random just make sure the passwords and usernames are easy to remember for the purpose of the guide. Follow these steps.:
+<br />
+<br />
+<img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Agents.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Agent%202.PNG?raw=true" height="90%" width="80%"  />
+<br />  
+<img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Agent%203.PNG?raw=true" height="90%" width="80%"  />
+<br />   
+<img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Agent%204.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+ Uncheck the the boxes, this will make it so the password you set will be their main password. :  
+<img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Agents%20%205.PNG?raw=true" height="90%" width="80%"  />   
 
 
    
