@@ -90,7 +90,24 @@ Now we will move on to the creation of your agents/employees. In this section yo
 Uncheck the the boxes, this will make it so the password you set will be their main password. :
 <br />
 <br />  
-<img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Agents%20%205.PNG?raw=true" height="90%" width="80%"  />   
+<img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Agents%20%205.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+ Now we move on to users/clients. Start by going back to the agent panel and follow these steps :
+<br />
+<br />  
+<img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Users.PNG?raw=true" height="90%" width="80%"  />
+<br />   
+<img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Users%201.PNG?raw=true" height="90%" width="80%"  />
+<br />   
+<img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/User%201.PNG?raw=true"90%" width="80%"  />
+<br />
+<br />
+The users you created should be in this panel when you are done creating them.:
+<br />
+<br />   
+<img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Users%202.PNG?raw=true" height="90%" width="80%"  />  
+   
 
 
    
