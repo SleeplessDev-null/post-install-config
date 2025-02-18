@@ -106,7 +106,20 @@ Uncheck the the boxes, this will make it so the password you set will be their m
 The users you created should be in this panel when you are done creating them.:
 <br />
 <br />   
-<img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Users%202.PNG?raw=true" height="90%" width="80%"  />  
+<img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Users%202.PNG?raw=true" height="90%" width="80%"  /> 
+<br />
+<br /> 
+Now we move onto the SLA. The SLA means service-Level agreement. This is a agreement between service provider and a customer that define the level of service that the provider will deliver.
+The SLA outlines specific metrics, such as response time, and resolution time, and includes consequences if the provider fails to meet those metrics. so we will make ours and give them a severity level based on the level of business impact they might have. Follow my steps and feel free to add more for practice. :
+<br />
+<br />
+<img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/SLA%201.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br /> 
+Here you can give it a name, severity level, description,and a time limit.:
+<br />
+<br /> 
+<img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/SLA%202.PNG?raw=true" height="90%" width="80%"  />
    
 
 
