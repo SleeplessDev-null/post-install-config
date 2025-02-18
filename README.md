@@ -120,6 +120,26 @@ Here you can give it a name, severity level, description,and a time limit.:
 <br />
 <br /> 
 <img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/SLA%202.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br /> 
+After this is done we will move on to the last step which is help topics. This is how clients would lable a inquery or problem when reporting issues and this is how we set them up .:
+<br />
+<br />  
+<img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Help%20Topics.PNG?raw=true" height="90%" width="80%"  />
+<br />   
+<img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Help%20topic%201.PNG?raw=true" height="90%" width="80%"  />
+<br />
+This how it should look after:
+<br />
+<br /> 
+<img src="https://github.com/SleeplessDev-null/post-install-config/blob/main/PNG/Help%20topic%20last%20step%20.PNG?raw=true" height="90%" width="80%"  />
+<br />
+<br />
+
+
+<h1>
+ This is the end for the configuration setup of osTicket with many of the sections you can add more agents/employees to try and simulate a real working environment when using a ticket system. Next we will be working tickets to get the feel of how it would be in the real world.
+</h1>
    
 
 
